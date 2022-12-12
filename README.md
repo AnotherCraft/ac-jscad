@@ -6,4 +6,4 @@ You'll need Node.js and pkg. Simply do:
 pkg . -t host
 ```
 
-The resulting binary should be put into `ac_project/bin/bin_common_XXX`.
+The resulting binary should be put into `bin_common_XXX`.
