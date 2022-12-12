@@ -1,0 +1,11 @@
+{
+  "name": "openjscad",
+  "bin": "cli.js",
+  "dependencies": {
+    "@jscad/cli": "^2.2.25",
+    "@jscad/modeling": "^2.11.0"
+  },
+  "pkg": {
+    "assets": "node_modules/**/*"
+  }
+}
